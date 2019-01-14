@@ -6,13 +6,13 @@ Repositorio para la Práctica HolaMundo Mi primer repositorio
 2.Activa las Github Pages (hosting de github)
 
 3.Añádele el fichero de inicio. En él aparecerá una tabla html con las siguientes columnas: 
-  1.Nombre y apellidos del alumno
+    1.Nombre y apellidos del alumno.
   
-  2.UsuarioGithub
+    2.UsuarioGithub
   
-  3.Enlace al repositorio HolaMundo de github
+    3.Enlace al repositorio HolaMundo de github
   
-  4.Enlace al hosting de este repositorio HolaMundo de github.
+    4.Enlace al hosting de este repositorio HolaMundo de github.
 
 4.Añade el fichero style.css en la carpeta css. 
 
